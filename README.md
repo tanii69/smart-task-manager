@@ -47,3 +47,7 @@ npm start
 - Add task deadlines
 - Use real AI model (OpenAI API)
 - Add task editing
+
+## Screenshots
+<img width="1866" height="864" alt="image" src="https://github.com/user-attachments/assets/be9da906-305c-4272-837f-f1735a5e9f48" />
+
